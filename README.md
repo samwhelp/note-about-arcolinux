@@ -12,11 +12,23 @@
 
 ## 主題
 
-* [連結](#連結)
+* [Arcolinux Adjustment](#arcolinux-adjustment)
+* [Arcolinux](#arcolinux)
 * [相關筆記](#相關筆記)
 
 
-## 連結
+
+
+## Arcolinux Adjustment
+
+| Link | GitHub |
+| ---- | ------ |
+| [Arcolinux Xfce 探索筆記](https://samwhelp.github.io/note-about-arcolinux-xfce/) | [GitHub](https://github.com/samwhelp/note-about-arcolinux-xfce) |
+
+
+
+
+## Arcolinux
 
 ### 作者
 
@@ -49,15 +61,6 @@
 | [Carli](https://www.arcolinuxiso.com/) | [Github](https://github.com/arcolinuxiso) | [SourceForge](https://sourceforge.net/projects/carli/) |
 | [Alci](https://alci.online/) | [Github](https://github.com/arch-linux-calamares-installer) | [SourceForge](https://sourceforge.net/p/alci/) |
 | [Ariser](https://ariser.eu/) | [Github](https://github.com/ariser-installer) | [SourceForge](https://sourceforge.net/p/archlinux-alis/) |
-
-
-
-
-## Arcolinux Adjustment
-
-| Link | GitHub |
-| ---- | ------ |
-| [Arcolinux Xfce 探索筆記](https://samwhelp.github.io/note-about-arcolinux-xfce/) | [GitHub](https://github.com/samwhelp/note-about-arcolinux-xfce) |
 
 
 
