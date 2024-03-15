@@ -24,7 +24,8 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Arcolinux Xfce 探索筆記](https://samwhelp.github.io/note-about-arcolinux-xfce/) | [GitHub](https://github.com/samwhelp/note-about-arcolinux-xfce) |
-
+| [Arcolinux Lxqt 探索筆記](https://samwhelp.github.io/note-about-arcolinux-lxqt/) | [GitHub](https://github.com/samwhelp/note-about-arcolinux-lxqt) |
+| [Arcolinux Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-arcolinux-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-arcolinux-kde-plasma) |
 
 
 
