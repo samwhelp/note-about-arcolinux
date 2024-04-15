@@ -64,6 +64,16 @@
 | [Ariser](https://ariser.eu/) | [Github](https://github.com/ariser-installer) | [SourceForge](https://sourceforge.net/p/archlinux-alis/) |
 
 
+| 主站 | GitHub | SourceForge |
+| --- | --- | --- |
+| arcolinuxb.com / [BYOI = Build Your Own Iso](https://arcolinuxb.com/byoi/) | [GitHub](https://github.com/arconetpro) | [SourceForge](https://sourceforge.net/projects/arcolinux/files/) |
+
+
+| YouTube |
+| --- |
+| [ArcoLinux : 4015 NEWS - FUTURE PLANS - arconet - arcopro - arcoplasma](https://www.youtube.com/watch?v=DrcCgoRJdEo) |
+
+
 
 
 ## 相關筆記
